@@ -1,0 +1,15 @@
+symbols: [EURUSD, GBPUSD, USDJPY, USDCHF, AUDUSD, USDCAD, NZDUSD, XAUUSD, BTCUSD]
+risk:
+  risk_pct: 1.0
+  reward_multiple: 3.0
+  win_rate_demo: 0.30
+costs:
+  spread_pips_EURUSD: 1.5
+  commission_per_lot_RT: 7.0
+backtest:
+  lot: 0.10
+  tp_pips: 30.0
+  sl_pips: 10.0
+  max_hold_bars: 48
+  seed: 7
+  mc_runs: 5000

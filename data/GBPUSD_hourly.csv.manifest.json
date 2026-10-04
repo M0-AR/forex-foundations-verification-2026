@@ -1,0 +1,21 @@
+{
+  "file": "GBPUSD_hourly.csv",
+  "rows": 1570,
+  "cols": [
+    "Date",
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "source",
+    "fetch_url",
+    "DateTime"
+  ],
+  "sha16": "11fa7f7296aabe20",
+  "fetched_utc": "2026-10-04T19:30:34.054112+00:00",
+  "extra": {
+    "interval": "1h",
+    "source": "yahoo"
+  }
+}

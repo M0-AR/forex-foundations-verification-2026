@@ -1,0 +1,21 @@
+{
+  "file": "EURUSD_hourly.csv",
+  "rows": 1570,
+  "cols": [
+    "Date",
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "source",
+    "fetch_url",
+    "DateTime"
+  ],
+  "sha16": "1d05ce1713f530dc",
+  "fetched_utc": "2026-10-04T19:30:30.249204+00:00",
+  "extra": {
+    "interval": "1h",
+    "source": "yahoo"
+  }
+}

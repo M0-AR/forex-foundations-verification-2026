@@ -1,0 +1,20 @@
+{
+  "file": "BTCUSD_daily.csv",
+  "rows": 1827,
+  "cols": [
+    "Date",
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "source",
+    "fetch_url"
+  ],
+  "sha16": "2d238656b359b9c2",
+  "fetched_utc": "2026-10-04T19:31:02.002880+00:00",
+  "extra": {
+    "interval": "1d",
+    "source": "yahoo"
+  }
+}

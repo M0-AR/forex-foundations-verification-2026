@@ -1,0 +1,20 @@
+{
+  "file": "USDCHF_daily.csv",
+  "rows": 1301,
+  "cols": [
+    "Date",
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "source",
+    "fetch_url"
+  ],
+  "sha16": "d52cf6b28c3c3663",
+  "fetched_utc": "2026-10-04T19:30:42.696171+00:00",
+  "extra": {
+    "interval": "1d",
+    "source": "yahoo"
+  }
+}

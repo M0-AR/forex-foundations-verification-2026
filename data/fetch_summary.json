@@ -1,0 +1,363 @@
+{
+  "started_utc": "2026-10-04T19:30:26.773769+00:00",
+  "symbols": {
+    "EURUSD": {
+      "daily_rows": 1301,
+      "daily_from": "2021-10-03 23:00:00+00:00",
+      "daily_to": "2026-10-02 21:29:47+00:00",
+      "manifest": {
+        "file": "EURUSD_daily.csv",
+        "rows": 1301,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url"
+        ],
+        "sha16": "5c934577dc282fa8",
+        "fetched_utc": "2026-10-04T19:30:28.754706+00:00",
+        "extra": {
+          "interval": "1d",
+          "source": "yahoo"
+        }
+      },
+      "hourly_rows": 1570,
+      "hourly_manifest": {
+        "file": "EURUSD_hourly.csv",
+        "rows": 1570,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url",
+          "DateTime"
+        ],
+        "sha16": "1d05ce1713f530dc",
+        "fetched_utc": "2026-10-04T19:30:30.249204+00:00",
+        "extra": {
+          "interval": "1h",
+          "source": "yahoo"
+        }
+      }
+    },
+    "GBPUSD": {
+      "daily_rows": 1301,
+      "daily_from": "2021-10-03 23:00:00+00:00",
+      "daily_to": "2026-10-02 21:29:47+00:00",
+      "manifest": {
+        "file": "GBPUSD_daily.csv",
+        "rows": 1301,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url"
+        ],
+        "sha16": "106c59e22e9ce7fa",
+        "fetched_utc": "2026-10-04T19:30:32.637347+00:00",
+        "extra": {
+          "interval": "1d",
+          "source": "yahoo"
+        }
+      },
+      "hourly_rows": 1570,
+      "hourly_manifest": {
+        "file": "GBPUSD_hourly.csv",
+        "rows": 1570,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url",
+          "DateTime"
+        ],
+        "sha16": "11fa7f7296aabe20",
+        "fetched_utc": "2026-10-04T19:30:34.054112+00:00",
+        "extra": {
+          "interval": "1h",
+          "source": "yahoo"
+        }
+      }
+    },
+    "USDJPY": {
+      "daily_rows": 1301,
+      "daily_from": "2021-10-03 23:00:00+00:00",
+      "daily_to": "2026-10-04 04:21:36+00:00",
+      "manifest": {
+        "file": "USDJPY_daily.csv",
+        "rows": 1301,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url"
+        ],
+        "sha16": "f6aa249352c346c0",
+        "fetched_utc": "2026-10-04T19:30:36.236292+00:00",
+        "extra": {
+          "interval": "1d",
+          "source": "yahoo"
+        }
+      },
+      "hourly_rows": 1562,
+      "hourly_manifest": {
+        "file": "USDJPY_hourly.csv",
+        "rows": 1562,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url",
+          "DateTime"
+        ],
+        "sha16": "bfe9d487419e65e2",
+        "fetched_utc": "2026-10-04T19:30:38.693483+00:00",
+        "extra": {
+          "interval": "1h",
+          "source": "yahoo"
+        }
+      }
+    },
+    "USDCHF": {
+      "daily_rows": 1301,
+      "daily_from": "2021-10-03 23:00:00+00:00",
+      "daily_to": "2026-10-04 19:14:31+00:00",
+      "manifest": {
+        "file": "USDCHF_daily.csv",
+        "rows": 1301,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url"
+        ],
+        "sha16": "d52cf6b28c3c3663",
+        "fetched_utc": "2026-10-04T19:30:42.696171+00:00",
+        "extra": {
+          "interval": "1d",
+          "source": "yahoo"
+        }
+      }
+    },
+    "AUDUSD": {
+      "daily_rows": 1301,
+      "daily_from": "2021-10-03 23:00:00+00:00",
+      "daily_to": "2026-10-04 18:26:52+00:00",
+      "manifest": {
+        "file": "AUDUSD_daily.csv",
+        "rows": 1301,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url"
+        ],
+        "sha16": "d938487c0a80afde",
+        "fetched_utc": "2026-10-04T19:30:45.701036+00:00",
+        "extra": {
+          "interval": "1d",
+          "source": "yahoo"
+        }
+      }
+    },
+    "USDCAD": {
+      "daily_rows": 1301,
+      "daily_from": "2021-10-03 23:00:00+00:00",
+      "daily_to": "2026-10-04 19:25:03+00:00",
+      "manifest": {
+        "file": "USDCAD_daily.csv",
+        "rows": 1301,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url"
+        ],
+        "sha16": "2dac6bef9606b847",
+        "fetched_utc": "2026-10-04T19:30:48.177925+00:00",
+        "extra": {
+          "interval": "1d",
+          "source": "yahoo"
+        }
+      }
+    },
+    "NZDUSD": {
+      "daily_rows": 1301,
+      "daily_from": "2021-10-03 23:00:00+00:00",
+      "daily_to": "2026-10-04 04:50:48+00:00",
+      "manifest": {
+        "file": "NZDUSD_daily.csv",
+        "rows": 1301,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url"
+        ],
+        "sha16": "5f507a103747d431",
+        "fetched_utc": "2026-10-04T19:30:51.341924+00:00",
+        "extra": {
+          "interval": "1d",
+          "source": "yahoo"
+        }
+      }
+    },
+    "XAUUSD": {
+      "daily_rows": 1258,
+      "daily_from": "2021-10-04 04:00:00+00:00",
+      "daily_to": "2026-10-02 04:00:00+00:00",
+      "manifest": {
+        "file": "XAUUSD_daily.csv",
+        "rows": 1258,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url"
+        ],
+        "sha16": "aa5bbe5477e5ce56",
+        "fetched_utc": "2026-10-04T19:30:55.021222+00:00",
+        "extra": {
+          "interval": "1d",
+          "source": "yahoo"
+        }
+      },
+      "hourly_rows": 1470,
+      "hourly_manifest": {
+        "file": "XAUUSD_hourly.csv",
+        "rows": 1470,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url",
+          "DateTime"
+        ],
+        "sha16": "2dfd31d5aa93c1f4",
+        "fetched_utc": "2026-10-04T19:30:57.830628+00:00",
+        "extra": {
+          "interval": "1h",
+          "source": "yahoo"
+        }
+      }
+    },
+    "BTCUSD": {
+      "daily_rows": 1827,
+      "daily_from": "2021-10-04 00:00:00+00:00",
+      "daily_to": "2026-10-04 00:00:00+00:00",
+      "manifest": {
+        "file": "BTCUSD_daily.csv",
+        "rows": 1827,
+        "cols": [
+          "Date",
+          "Open",
+          "High",
+          "Low",
+          "Close",
+          "Volume",
+          "source",
+          "fetch_url"
+        ],
+        "sha16": "2d238656b359b9c2",
+        "fetched_utc": "2026-10-04T19:31:02.002880+00:00",
+        "extra": {
+          "interval": "1d",
+          "source": "yahoo"
+        }
+      }
+    }
+  },
+  "frankfurter": {
+    "rows": 1732,
+    "manifest": {
+      "file": "FRANKFURTER_EUR_base_daily.csv",
+      "rows": 1732,
+      "cols": [
+        "Date",
+        "EURAUD",
+        "EURCAD",
+        "EURCHF",
+        "EURGBP",
+        "EURJPY",
+        "EURNZD",
+        "EURUSD",
+        "source",
+        "fetch_url"
+      ],
+      "sha16": "1a59bc4991c3373d",
+      "fetched_utc": "2026-10-04T19:31:09.939420+00:00",
+      "extra": {
+        "interval": "1d",
+        "source": "frankfurter"
+      }
+    }
+  },
+  "ecb": {
+    "rows": 65,
+    "manifest": {
+      "file": "ECB_EURUSD_90d.csv",
+      "rows": 65,
+      "cols": [
+        "Date",
+        "ECB_EURUSD",
+        "source",
+        "fetch_url"
+      ],
+      "sha16": "236c46a1c0648bea",
+      "fetched_utc": "2026-10-04T19:31:15.035466+00:00",
+      "extra": {
+        "interval": "1d",
+        "source": "ecb"
+      }
+    }
+  },
+  "elapsed_s": 48.26
+}

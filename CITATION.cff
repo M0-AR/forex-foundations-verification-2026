@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Verifying Retail Forex Foundations End-to-End on Live Public Data: Sessions, Costs, Leverage, and Risk Expectancy"
+authors:
+  - family-names: "Verification Collective"
+    given-names: "Forex Foundations"
+version: 1.0.0
+date-released: 2026-10-04
+license: MIT
+repository-code: "https://example.local/forex-foundations-verification-2026"
+keywords:
+  - forex
+  - market-microstructure
+  - reproducibility
+  - backtesting
+  - risk-management
+  - QFRS
